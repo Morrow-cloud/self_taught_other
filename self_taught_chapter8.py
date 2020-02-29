@@ -1,0 +1,3 @@
+import self_taught_chapter8_module
+
+print(self_taught_chapter8_module.cubed(3))
